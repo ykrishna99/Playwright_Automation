@@ -1,0 +1,21 @@
+{
+  "name": "Playwrite_Automation",
+  "version": "1.0.0",
+  "description": "This is a Playwrite automation project.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykrishna99/Playwrite_Automation.git"
+  },
+  "keywords": ["automation", "playwright"],
+  "author": "Krishna Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykrishna99/Playwrite_Automation/issues"
+  },
+  "homepage": "https://github.com/ykrishna99/Playwrite_Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.4"
+  }
+}
